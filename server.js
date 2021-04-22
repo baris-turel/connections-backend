@@ -154,9 +154,9 @@ if (fs.existsSync(keyPath)) {
  * Create a new OAuth2 client with the configured keys.
  */
 const oauth2Client = new google.auth.OAuth2(
-    "1059184212102-caqscan3rs980con1sgktip9fn4j3u0d.apps.googleusercontent.com",
-    "AqR_VsRNyhRBveyf7lw_v_Kn",
-    'http://localhost:3000/oauth-callback'
+    "481059199386-dh933nt8rerrcus0f8jtrgvvp9s3ah4p.apps.googleusercontent.com",
+    "we84FG2Qc0XHmD8uJ6AYr_fh",
+    'http://localhost:3001/oauth-callback'
 );
 
 /**
